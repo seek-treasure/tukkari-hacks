@@ -1,17 +1,19 @@
 # tukkari-hacks
-Tukkari 3D printer enclosure hacks and addons
+This repository contains the 3D design files for a modification to the original Tukkari TS printable parts. 
 
 # Enlarged Feet for Tukkari TS 3D printer enclosure
 
-This repository contains the 3D design files for a modification to the original Tukkari TS printable parts. The enlarged feet design allows the enclosure to hang slightly off the edge of a desk, providing a space-saving solution while maintaining stability.
+The enlarged feet design allows the enclosure to hang slightly off the edge of a desk, providing a space-saving solution while maintaining stability. It's a modification of original printable feet designed to improve the original feet by increasing their size and adding a slight overhang feature. This design allows to better utilize limited desk space while ensuring the enclosure remains stable and secure.
 
-## Overview
-
-The Tukkari TS Enlarged Feet for Prusa i3 Enclosure modification is designed to improve the original feet by increasing their size and adding a slight overhang feature. This design allows users to better utilize limited desk space while ensuring the enclosure remains stable and secure.
+![close up](enlarged-foot/img/closeup.jpg)
+![inside](enlarged-foot/img/inside.jpg)
+![outside](enlarged-foot/img/outside.jpg)
 
 ## Printing instructions
 
 Print with the designed orientation. I believe the orientation provided gives the best reliability. 
+![slicer](enlarged-foot/img/Slicer.png)
+
 
 ### Materials
 
