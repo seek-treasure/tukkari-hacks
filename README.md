@@ -35,7 +35,13 @@ Tested with PLA. Other filament types should work too.
 2. 3D print the enlarged feet (4 pieces required).
 3. Attach the new enlarged feet to the enclosure using the original screws and mounting points.
 
+# Enclosure mount for E3D Revo Connect nozzle holders
+
+Use the bolt head on the top of the enclosure to secure Revo nozzle holders. The model holds to the bolt head, which prevents it from sliding inadvertently. 
+
+![top](revo-connect/img/top.jpg)
+![bottom](revo-connect/img/bottom.jpg)
 
 ## Disclaimer
 
-Use this modification at your own risk. The creator is not responsible for any damage or injury that may occur as a result of using this modification. Always exercise caution when operating 3D printers and modifying equipment.
+Use these modifications at your own risk. The creator is not responsible for any damage or injury that may occur as a result of using this modification. Always exercise caution when operating 3D printers and modifying equipment.
